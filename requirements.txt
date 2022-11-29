@@ -1,0 +1,14 @@
+numpy 
+pillow
+scipy
+opencv-python-headless
+scikit-image
+imgaug
+matplotlib
+labelme2coco
+pycocotools
+pandas
+torch
+torchvision
+streamlit
+pixellib
