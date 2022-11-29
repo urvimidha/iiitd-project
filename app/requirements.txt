@@ -1,0 +1,10 @@
+numpy 
+pillow
+opencv-python
+scikit-image
+imgaug
+matplotlib
+labelme2coco
+pycocotools
+streamlit
+pixellib
