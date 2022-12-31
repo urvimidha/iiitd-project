@@ -2,10 +2,6 @@
 # Object Detection and Segmentation using Python Libraries
 
 
-
-
-
-
 ## Introduction
 
 We have built an end-to-end pipeline for Image Detection and Segmentation using the best
@@ -20,7 +16,9 @@ considered as the next step to object detection. Image segmentation creates a
 pixel-wise mask for each object in the image. This technique gives us a far more granular
 understanding of the object(s) in the image and tells us about the shape of the object.
 
-![](Object%20Detection%20and%20Segmentation%20image.jpeg)
+# ![](Object%20Detection%20and%20Segmentation%20image.jpeg)
+![image](https://user-images.githubusercontent.com/57900104/210131066-f8a58c2a-171d-4509-9acf-5f8211d1446d.png)
+
 
 Image segmentation is transforming industries with applications such as Traffic Control
 Systems, Self Driving Cars, and Locating objects in satellite images. Some of the popular image
@@ -31,9 +29,8 @@ Semantic segmentation treats multiple objects of the same class as a single enti
 hand, instance segmentation treats multiple objects of the same class as distinct individual
 objects (or instances).
 
-![](Semantic%20vs%20Instance%20Segmentation%20image.jpeg)
-
-
+# ![](Semantic%20vs%20Instance%20Segmentation%20image.jpeg)
+![image](https://user-images.githubusercontent.com/57900104/210130952-07e206c0-5ec1-4f27-98e6-084975fefe45.png)
 
 ## Algorithm
 
